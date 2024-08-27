@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é a principal causa do efeito estufa ?",
+        enunciado: "Quais as principais causas do desmatamento na Amazônia ?",
         alternativas: [
             {
                 texto: "A emissão de gases de efeito estufa, como dióxido de carbono.",
@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é a principal razão para a destruição da camada de ozônio? ",
+        enunciado: "Como a poluição dos oceanos afeta a vida marinha e os ecossistemas costeiros ? ",
         alternativas: [
             {
                 texto: "Alta temperatura global.",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o maior reservatório de água do planeta ?",
+        enunciado: "De que maneira as mudanças climáticas estão impactando os padrões meteorológicos globais ?",
         alternativas: [
             {
                 texto: "Gelo das calotas polares e as geleiras.",
