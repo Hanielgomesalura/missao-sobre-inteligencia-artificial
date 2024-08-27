@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quais as principais causas do desmatamento na Amazônia ?",
+        enunciado: "Qual a principal causa do desmatamento na Amazônia ?",
         alternativas: [
             {
                 texto: "A emissão de gases de efeito estufa, como dióxido de carbono.",
@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "Como a poluição dos oceanos afeta a vida marinha e os ecossistemas costeiros ? ",
         alternativas: [
             {
-                texto: "Alta temperatura global.",
+                texto: "Afeta a cadeia alimentar marinha.",
                 afirmacao: ""
             },
             {
-                texto: "Uso de clorofluorcarbonos (CFCs)",
+                texto: "Afeta os pescadores locais",
                 afirmacao: ""
             
         ]
@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "De que maneira as mudanças climáticas estão impactando os padrões meteorológicos globais ?",
         alternativas: [
             {
-                texto: "Gelo das calotas polares e as geleiras.",
+                texto: "Aumentando a frequência e intensidade das ondas de calor",
                 afirmacao: ""
             },
             {
