@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: ""
             },
             {
-                texto: "Desmatamento",
+                texto: "Exploração madereira",
                 afirmacao: ""
             }
         ]
